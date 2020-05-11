@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/Personal_Plan_App/static/css/main.a2b7b0b6.chunk.css",
+    "main.js": "/Personal_Plan_App/static/js/main.7f4a83d3.chunk.js",
+    "main.js.map": "/Personal_Plan_App/static/js/main.7f4a83d3.chunk.js.map",
+    "runtime-main.js": "/Personal_Plan_App/static/js/runtime-main.71fc2d89.js",
+    "runtime-main.js.map": "/Personal_Plan_App/static/js/runtime-main.71fc2d89.js.map",
+    "static/js/2.f0d8e2c9.chunk.js": "/Personal_Plan_App/static/js/2.f0d8e2c9.chunk.js",
+    "static/js/2.f0d8e2c9.chunk.js.map": "/Personal_Plan_App/static/js/2.f0d8e2c9.chunk.js.map",
+    "index.html": "/Personal_Plan_App/index.html",
+    "precache-manifest.1a1d9e55173f7e3709dcee291b3c3fb6.js": "/Personal_Plan_App/precache-manifest.1a1d9e55173f7e3709dcee291b3c3fb6.js",
+    "service-worker.js": "/Personal_Plan_App/service-worker.js",
+    "static/css/main.a2b7b0b6.chunk.css.map": "/Personal_Plan_App/static/css/main.a2b7b0b6.chunk.css.map",
+    "static/js/2.f0d8e2c9.chunk.js.LICENSE.txt": "/Personal_Plan_App/static/js/2.f0d8e2c9.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.71fc2d89.js",
+    "static/js/2.f0d8e2c9.chunk.js",
+    "static/css/main.a2b7b0b6.chunk.css",
+    "static/js/main.7f4a83d3.chunk.js"
+  ]
+}
