@@ -12,12 +12,18 @@ import fbConfig from './config/fbConfig'
 import firebase from 'firebase/app'
 import rootReducer from './store/reducers/rootReducer';
 
+const config = {
+  userProfile: 'users', 
+  useFirestoreForProfile: true
+};
+
 const store = createStore(rootReducer, 
   compose(
       applyMiddleware(thunk.withExtraArgument({ getFirestore, getFirebase })),
-      reduxFirestore(fbConfig)
+      reduxFirestore(fbConfig, config)
     )
   );
+
 
   
 const rrfProps = {
